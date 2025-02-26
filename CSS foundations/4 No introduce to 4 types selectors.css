@@ -1,0 +1,19 @@
+*{
+    background-color: black;
+    color: white;
+}
+h1{
+    text-align: center;
+    background-color: greenyellow;
+}
+
+.para{
+    font-weight: bolder;
+    color: yellow;
+}
+#one{
+    background-color: rgb(50, 50, 50);
+}
+#four{
+    background-color: rgb(50, 85, 85);
+}
